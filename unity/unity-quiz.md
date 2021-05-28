@@ -5,7 +5,7 @@
 - [ ] The object inspector
 - [ ] Handles
 - [ ] Gizmos
-- [ ] Play mode tint
+- [X] Play mode tint
 
 #### Q2. A developer executes the C# code below, which finds any game objects tagged as “enemy” in a start event. But the developer notices that, when executed, FindGameObjectsWithTag returns NULL even though the scene contains objects tagged as “Enemy”. What is a possible cause?
 
@@ -33,7 +33,7 @@
 #### Q5. Orthographic cameras remove which visual effect?
 
 - [ ] Gamma color space
-- [ ] Depth of field
+- [X] Depth of field
 - [ ] Foreshortening
 - [ ] Bloom
 
@@ -46,7 +46,7 @@
 
 #### Q7. What does the Microphone class save captured audio data as?
 
-- [ ] An audio clip asset
+- [X] An audio clip asset
 - [ ] An MP3 file
 - [ ] A WAV file
 - [ ] An OGG file
